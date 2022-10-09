@@ -1,4 +1,6 @@
+<div style="height=100px">
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://manvendra1097-eng.io)
+</div>
 <h1 align="center">Hi 👋, I'm Manvendra</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
@@ -10,13 +12,13 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manvendra1097-eng](https://github.com/Manvendra1097-eng)
+- 👨‍💻 All of my projects are available [here](https://github.com/Manvendra1097-eng)
 
 - 💬 Ask me about **Java, Spring, MySQL, HTML, CSS, JavaScript.**
 
 - 📫 How to reach me **manvendra1097@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kM5PUNdfOwLJqmg4Fkh5gQLivoaS3fjn/view?usp=sharing](https://drive.google.com/file/d/1kM5PUNdfOwLJqmg4Fkh5gQLivoaS3fjn/view?usp=sharing)
+- 📄 Find my resume [here](https://drive.google.com/file/d/1kM5PUNdfOwLJqmg4Fkh5gQLivoaS3fjn/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny.**
 
