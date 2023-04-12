@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Cognizant<br>I’m currently learning JavaScript and ReactJS<br>All of my projects are available [here](https://github.com/Manvendra1097-eng)<br>Ask me about Java, Spring, MySQL, HTML, CSS, JavaScript.<br>How to reach me manvendra1097@gmail.com<br>Find my resume [here](https://drive.google.com/file/d/1kM5PUNdfOwLJqmg4Fkh5gQLivoaS3fjn/view?usp=sharing)<br>Fun fact I think I am funny.
+I’m currently working on Cognizant<br>I’m currently learning JavaScript and ReactJS<br>All of my projects are available [here](https://github.com/Manvendra1097-eng)<br>Ask me about Java, Spring, MySQL, HTML, CSS, JavaScript.<br>How to reach me manvendra1097@gmail.com<br>Find my resume [here](https://drive.google.com/file/d/1kM5PUNdfOwLJqmg4Fkh5gQLivoaS3fjn/view?usp=sharing)<br>
 
 
 # 💻 Tech Stack:
